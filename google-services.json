@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493341971525",
+    "firebase_url": "https://swen-2ee6a.firebaseio.com",
+    "project_id": "swen-2ee6a",
+    "storage_bucket": "swen-2ee6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493341971525:android:b98b5a0e1f3f7b5b6d7f2c",
+        "android_client_info": {
+          "package_name": "com.chatwoot.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493341971525-bnvna4b5p5f22bsjo8nc79nqemfrfv3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPgrnY82eP1Ip40_LYNbbjuvSM7UqCP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493341971525-bnvna4b5p5f22bsjo8nc79nqemfrfv3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
